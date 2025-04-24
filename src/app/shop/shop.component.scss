@@ -1,0 +1,26 @@
+.shop-item {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 12px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+}
+
+.shop-item h3 {
+  font-size: 1.4rem;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.shop-item p {
+  margin: 4px 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.shop-item p:first-of-type {
+  font-weight: bold;
+  color: #1a8f1a;
+}
